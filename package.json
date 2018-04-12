@@ -1,0 +1,24 @@
+{
+  "name": "tttcli",
+  "version": "1.0.0",
+  "description": "Tick Tack Toe App for the CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmblumenfeld/CLI-TickTackToe.git"
+  },
+  "author": "Ben Blumenfeld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmblumenfeld/CLI-TickTackToe/issues"
+  },
+  "homepage": "https://github.com/bmblumenfeld/CLI-TickTackToe#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "commander": "^2.15.1",
+    "prompt": "^1.0.0"
+  }
+}
